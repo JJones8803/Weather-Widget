@@ -165,4 +165,3 @@ if __name__ == "__main__":
     sys.exit(app.exec_())
      
  
-#KEY: 2da558efa8667bda8de5239eaaa42994
