@@ -1,1 +1,1 @@
-This is a weather application/widget that utilizes a weather API (https://openweathermap.org/) to retrieve data for a chosen city worldwide; it then displays both the temperature and its current condition (e.g., rain, sunny, etc.). Error handling included
+This is a weather application/widget that utilizes a weather API (https://openweathermap.org/) to retrieve data for a chosen city worldwide; it then displays both the temperature and its current condition (e.g., rain, sunny, etc.). Error handling included. Enjoy!
